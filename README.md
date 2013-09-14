@@ -1,4 +1,2 @@
-sport.db.logos
-==============
+# sport.db.logos
 
-national team logos
